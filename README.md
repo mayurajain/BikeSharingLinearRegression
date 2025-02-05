@@ -41,5 +41,5 @@
 - The dataset used in this project was given by Upgrad.com.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by https://github.com/mayurajain - feel free to contact me!
 
